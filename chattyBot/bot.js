@@ -1,6 +1,5 @@
 const input = require('sync-input');
 
-
 function greet(bot_name, birth_year) {
 	console.log("Hello! My name is " + bot_name + ".");
 	console.log("I was created in " + birth_year + ".");
